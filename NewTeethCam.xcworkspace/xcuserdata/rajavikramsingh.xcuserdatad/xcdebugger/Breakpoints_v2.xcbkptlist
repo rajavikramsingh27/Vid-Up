@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewTeethCam/Controller/CameraViewController/CameraViewController.swift"
+            timestampString = "558031665.400563"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "360"
+            endingLineNumber = "360"
+            landmarkName = "btn_LinkedIn_Share(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewTeethCam/Controller/CameraViewController/Extension-LINKEDIN-Sharing.swift"
+            timestampString = "558031742.07897"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "shareinLinkd(in:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewTeethCam.CameraViewController.shareinLinkd(in: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "NewTeethCam"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajavikramsingh/Developments/Projects/Vid-Up/Projects/NewTeethCam/Vid-Up-2018-Sep-06/NewTeethCam/Controller/CameraViewController/Extension-LINKEDIN-Sharing.swift"
+                  timestampString = "558031742.3479609"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in NewTeethCam.CameraViewController.shareinLinkd(in: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "NewTeethCam"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajavikramsingh/Developments/Projects/Vid-Up/Projects/NewTeethCam/Vid-Up-2018-Sep-06/NewTeethCam/Controller/CameraViewController/Extension-LINKEDIN-Sharing.swift"
+                  timestampString = "558031742.3504421"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewTeethCam/Controller/CameraViewController/Extension-LINKEDIN-Sharing.swift"
+            timestampString = "558031742.079563"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "shareinLinkd(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

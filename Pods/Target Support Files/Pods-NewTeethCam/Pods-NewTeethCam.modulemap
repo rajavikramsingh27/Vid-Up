@@ -1,0 +1,6 @@
+framework module Pods_NewTeethCam {
+  umbrella header "Pods-NewTeethCam-umbrella.h"
+
+  export *
+  module * { export * }
+}
